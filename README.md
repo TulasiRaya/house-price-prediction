@@ -10,12 +10,6 @@ This project uses the **California Housing Dataset** to train a Linear Regressio
 
 ---
 
-## 🖥️ Live Demo
-
-> Deployed on Render → **[house-price-prediction.onrender.com](https://house-price-prediction.onrender.com)**
-
----
-
 ## 📁 Project Structure
 
 ```
