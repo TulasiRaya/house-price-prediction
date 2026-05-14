@@ -11,10 +11,10 @@ st.set_page_config(
 
 # ---------------- LOAD MODEL ----------------
 # Uncomment these when your .pkl files are available
-# with open("Model_For_House_Price_Prediction.pkl", "rb") as f:
-#     model = pickle.load(f)
-# with open("scaler.pkl", "rb") as f:
-#     scaler = pickle.load(f)
+with open("Model_For_House_Price_Prediction.pkl", "rb") as f:
+     model = pickle.load(f)
+with open("scaler.pkl", "rb") as f:
+     scaler = pickle.load(f)
 
 # ---------------- FULL PAGE CSS + NAVBAR + HERO (single block) ----------------
 st.markdown("""
